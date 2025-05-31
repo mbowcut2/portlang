@@ -22,14 +22,15 @@ Each exercise is:
 
 - `00-hello-world`
 - `01-cli-calculator`
-- `02-http-server`
-- `03-file-watcher`
-- `04-quick-sort`
-- `05-env-vars & config`
-- `06-unit-test`
-- `07-parallel-requests`
-- `08-database-query`
-- `09-rest-api-client`
+- `02-fibonacci`
+- `03-http-server`
+- `04-file-watcher`
+- `05-quick-sort`
+- `06-env-vars & config`
+- `07-unit-test`
+- `08-parallel-requests`
+- `09-database-query`
+- `10-rest-api-client`
 
 ## 📦 Supported Languages
 
